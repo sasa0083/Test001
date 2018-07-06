@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "it is a test.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasa0083/Test001.git"
+  },
+  "keywords": [
+    "gg"
+  ],
+  "author": "sasa0083",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasa0083/Test001/issues"
+  },
+  "homepage": "https://github.com/sasa0083/Test001#readme",
+  "dependencies": {
+    "steem": "^0.7.1"
+  }
+}
